@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_map"
+            android:title="Mapa" />
+        <item
+            android:id="@+id/nav_points_near"
+            android:icon="@drawable/ic_near"
+            android:title="Pontos de descarte" />
+        <item
+            android:id="@+id/nav_guide"
+            android:icon="@drawable/ic_info"
+            android:title="Informativo" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Configurações" />
+    </group>
+
+</menu>

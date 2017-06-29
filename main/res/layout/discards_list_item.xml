@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp">
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/discard_item_name"
+        android:paddingLeft="15dp"
+        android:textSize="19sp"
+        android:text="CPD - UFRGS"/>
+
+    <TextView
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/discard_item_name"
+        android:id="@+id/discard_item_address"
+        android:paddingLeft="15dp"
+        android:text="Av. João Pessoa, 450, Porto Alegre"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:id="@+id/discard_item_distance"
+        android:textSize="20sp"
+        android:paddingRight="15dp"
+        android:text="0.5 Km"/>
+
+</RelativeLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">iDiscard</string>
+    <string name="title_activity_main">iDiscard</string>
+    <string name="title_activity_guide">Informativo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_discards_list">Pontos de descarte</string>
+    <string name="guide_text">\tPilhas, baterias e computadores em desuso não podem ser descartados sem critério porque são tóxicos e trazem riscos à saúde e ao meio ambiente.\n\n\tA destinação correta do e-lixo está prevista em lei.</string>
+    <string name="guide_text2">\tOs produtos ou peças eletrônicas que não não tem mais utilidade devem ser entregues nas lojas que os vendem para que sejam devolvidos aos fabricantes, que são  obrigados por lei a darem destino correto aos resíduos, ou levados para centros de triagem para serem separados e reaproveitados.\n\n\tA participação da população no caso da disposição ecologicamente correta deste tipo de lixo é essencial, pois além de colaborar com o meio ambiente urbano contribui com as cooperativas de reciclagem. O gerador do lixo é o responsável pelo seu descarte e é importante a conscientização dos cidadãos para que o descarte correto efetivamente ocorra.</string>
+
+</resources>
